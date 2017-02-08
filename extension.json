@@ -1,0 +1,21 @@
+{
+    "name": "MediaWiki PsychonautWiki Contact ParserHook",
+    "author": "Kenan Sulayman",
+    "version": "1.0.0",
+    "url": "git@github.com:officialpsychonautwiki/mw-pw-contact.git",
+    "descriptionmsg": "mw-pw-contact",
+    "license-name": "MIT",
+    "type": "parserhook",
+    "AutoloadClasses": {
+        "PWContact": "PWContact.class.php"
+    },
+    "ExtensionMessagesFiles": {
+        "PWContact": "PWContact.i18n.php"
+    },
+    "Hooks": {
+        "ParserFirstCallInit": [
+            "PWContact::onParserSetup"
+        ]
+    },
+    "manifest_version": 1
+}
