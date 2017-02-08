@@ -1,0 +1,269 @@
+.ContactPage {
+    line-height: 1;
+}
+.ContactPage *,
+.ContactPage *:before,
+.ContactPage *:after {
+    box-sizing: border-box;
+}
+
+.ContactPage .container {
+    display: block;
+
+    padding: 0 20px !important;
+    margin: 0 auto !important;
+}
+
+@media screen and (max-width: 1020px) {
+    .ContactPage .container {
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 735px) {
+    .ContactPage .container {
+        padding: 0 20px !important;
+    }
+}
+
+.ContactPage * {
+    -webkit-text-size-adjust: 100%;
+    vertical-align: top;
+}
+
+.ContactPage {
+    font-family: helvetica !important;
+    font-weight: normal !important;
+    font-size: 14px !important;
+    line-height: 1.3;
+    text-align: center;
+    margin: 0 auto !important;
+    color: #333;
+}
+
+.ContactPage h3 {
+    color: #205081;
+    font-weight: normal !important;
+    /*text-align: left;*/
+    text-rendering: optimizelegibility;
+
+    z-index: 100;
+
+    display: block !important;
+}
+
+.ContactPage h3.in-block span.PersonJob {
+    padding-left: 5px;
+}
+
+.ContactPage a {
+    color: #5e8ec0;
+    cursor: pointer;
+    outline: none;
+    text-align: inherit;
+    text-decoration: none;
+    line-height: inherit;
+}
+
+.ContactPage img {
+    text-align: inherit;
+    vertical-align: top;
+    border: none;
+    max-width: 100%;
+    height: auto;
+}
+
+.ContactPage .PaneContent {
+    text-align: left;
+}
+
+.ContactPage .PaneContent a {
+    color: #3271B3;
+    outline: medium none;
+    text-decoration: none;
+}
+
+.ContactPage ::-webkit-input-placeholder {
+    color: #aaa;
+    font-weight: normal !important;
+}
+
+.ContactPage :-moz-placeholder {
+    color: #aaa;
+    font-weight: normal !important;
+}
+
+.ContactPage ::-moz-placeholder {
+    color: #aaa;
+    font-weight: normal !important;
+}
+
+.ContactPage :-ms-input-placeholder {
+    color: #aaa;
+    font-weight: normal !important;
+}
+
+.ContactPage .PaneContent {
+    float: left;
+
+    min-height: 450px;
+}
+
+@media screen and (max-width: 800px) {
+    .ContactPage .PaneContent {
+        width: 70%;
+    }
+}
+
+@media screen and (max-width: 670px) {
+    .ContactPage .PaneContent {
+        width: 65%;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .ContactPage .PaneContent {
+        float: none;
+        width: 100%;
+    }
+}
+
+.ContactPage {
+    position: relative;
+}
+
+.ContactPage > .container {
+    padding: 20px 20px 40px 20px !important;
+}
+
+@media screen and (max-width: 640px) {
+    .ContactPage .PaneContent {
+        margin-left: 0px !important;
+    }
+}
+
+.ContactPage .PersonContainer {
+    position: relative;
+    padding-top: 160px !important;
+    width: 33.33333%;
+    float: left;
+    margin-bottom: 50px !important;
+    margin-top: 0px !important;
+
+    min-width: 100px;
+}
+
+@media only screen and (max-width: 950px) {
+    .ContactPage .PersonContainer {
+        width: 50%;
+        padding-left: 20px !important;
+    }
+}
+
+@media only screen and (max-width: 440px) {
+    .ContactPage .PersonContainer {
+        width: 100%;
+        padding-left: 50px !important;
+    }
+}
+
+.ContactPage .PersonContainer h3 {
+    margin: 0 !important;
+    position: relative;
+    color: #205081;
+    font-size: 20px !important;
+}
+
+@media only screen and (max-width: 680px) {
+    .ContactPage .PersonContainer h3 {
+        font-size: 16px !important;
+    }
+}
+
+.ContactPage .PersonContainer .PersonJob {
+    text-transform: none;
+    color: #707070;
+}
+
+.ContactPage .PersonContainer .PersonTitle {
+    display: block;
+    text-transform: none;
+    font-size: 16px !important;
+    color: #707070;
+    line-height: 20px;
+}
+
+.ContactPage .PersonContainer.placeholder {
+    min-width: 33.33333%;
+}
+
+@media only screen and (max-width: 680px) {
+    .ContactPage .PersonContainer .PersonTitle {
+        font-size: 14px !important;
+    }
+}
+
+@media only screen and (max-width: 740px) {
+    .ContactPage .PersonContainer h3 {
+        font-size: 15px !important;
+    }
+
+    .ContactPage .PersonContainer .PersonTitle {
+        font-size: 14px !important;
+    }
+}
+
+.ContactPage .PersonName2 {
+    color: #205081;
+}
+
+.ContactPage .PersonDetailsContainer {
+    overflow: hidden;
+}
+
+.ContactPage .PersonPhoto {
+    display: block;
+    float: left;
+    padding-top: 0px !important;
+    width: 100%;
+    margin-right: 20px !important;
+    padding-bottom: 20px !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+@media only screen and (max-width: 950px) {
+    .ContactPage .PersonPhoto {
+        padding-left: 20px !important;
+    }
+}
+
+@media only screen and (max-width: 440px) {
+    .ContactPage .PersonPhoto {
+        padding-left: 50px !important;
+    }
+}
+
+.ContactPage .PersonPhoto img {
+    width: 120px;
+    border-radius: 50%;
+}
+
+.ContactPage .PersonGenericContainer {
+    padding-top: 25px !important;
+}
+
+.ContactPage pre {
+    border-radius: inherit;
+    border-width: inherit;
+    padding: inherit !important;
+    clear: none;
+    overflow: inherit;
+}
+
+.ContactPage pre:hover {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: initial;
+    box-shadow: none;
+}

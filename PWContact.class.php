@@ -19,7 +19,7 @@ $contact_page =
                     </h3>
                     <div class="PersonDetailsContainer">
                         <div class="PersonPhoto">
-                            <img src="https://psychonautwiki.global.ssl.fastly.net/w/images/avatars/mediawiki_3_l.png" border="0">
+                            <img src="https://psychonautwiki.global.ssl.fastly.net/w/images/d/dd/Josienewavatar.png" border="0">
                         </div>
                     </div>
                 </div>
@@ -31,7 +31,7 @@ $contact_page =
                     </h3>
                     <div class="PersonDetailsContainer">
                         <div class="PersonPhoto">
-                            <img src="https://psychonautwiki.global.ssl.fastly.net/w/images/avatars/mediawiki_4_l.png">
+                            <img src="https://psychonautwiki.global.ssl.fastly.net/w/images/e/e1/Oskykinspic.jpeg">
                         </div>
                     </div>
                 </div>
@@ -43,7 +43,7 @@ $contact_page =
                     </h3>
                     <div class="PersonDetailsContainer">
                         <div class="PersonPhoto">
-                            <img src="https://psychonautwiki.global.ssl.fastly.net/w/images/avatars/mediawiki_23_l.png" border="0">
+                            <img src="https://psychonautwiki.global.ssl.fastly.net/w/images/2/28/Kaylee_new_avatar.jpeg" border="0">
                         </div>
                     </div>
                 </div>
@@ -68,7 +68,7 @@ $contact_page =
                     </h3>
                     <div class="PersonDetailsContainer">
                         <div class="PersonPhoto">
-                            <img src="https://psychonautwiki.global.ssl.fastly.net/w/images/d/d7/Clarity.png" border="0">
+                            <img src="https://psychonautwiki.global.ssl.fastly.net/w/images/2/2c/15871769_10154222031762338_7122449702448252455_n.jpg" border="0">
                         </div>
                     </div>
                 </div>
