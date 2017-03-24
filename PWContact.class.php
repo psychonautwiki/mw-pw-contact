@@ -13,7 +13,7 @@ $contact_page =
             <div class="PersonGenericContainer">
                 <div class="PersonContainer">
                     <h3>
-                        <span class="PersonName2">Josie</span>
+                        <span class="PersonName2"><a href="https://psychonautwiki.org/wiki/User:Josikins">Josie</a></span>
                         <span class="PersonJob">Founder</span>
                         <span class="PersonTitle"><a href="mailto:josie@psychonaut.wiki">josie@psychonaut.wiki</a></span>
                     </h3>
@@ -25,7 +25,7 @@ $contact_page =
                 </div>
                 <div class="PersonContainer">
                     <h3>
-                        <span class="PersonName2">Jenny</span>
+                        <span class="PersonName2"><a href="https://psychonautwiki.org/wiki/User:Oskykins">Jenny</a></span>
                         <span class="PersonJob">Founder</span>
                         <span class="PersonTitle"><a href="mailto:oskykins@psychonautwiki.org">oskykins@psychonautwiki.org</a></span>
                     </h3>
@@ -37,7 +37,7 @@ $contact_page =
                 </div>
                 <div class="PersonContainer">
                     <h3>
-                        <span class="PersonName2">Kaylee</span>
+                        <span class="PersonName2"><a href="https://psychonautwiki.org/wiki/User:Kaylee">Kaylee</a></span>
                         <span class="PersonJob">Founder</span>
                         <span class="PersonTitle"><a href="mailto:kaylee@psychonaut.wiki">kaylee@psychonaut.wiki</a></span>
                     </h3>
@@ -49,7 +49,7 @@ $contact_page =
                 </div>
                 <div class="PersonContainer">
                     <h3>
-                        <span class="PersonName2">Kenan</span>
+                        <span class="PersonName2"><a href="https://psychonautwiki.org/wiki/User:Apx">Kenan</a></span>
                         <span class="PersonJob">Operations &amp; PR</span>
                         <span class="PersonTitle"><a href="mailto:kenan@psychonaut.wiki">kenan@psychonaut.wiki</a></span>
                         <a name="MurrayDemo"></a>
@@ -62,7 +62,7 @@ $contact_page =
                 </div>
                 <div class="PersonContainer">
                     <h3>
-                        <span class="PersonName2">Claire</span>
+                        <span class="PersonName2"><a href="https://psychonautwiki.org/wiki/User:Clarity">Claire</a></span>
                         <span class="PersonJob">Product Evangelist</span>
                         <span class="PersonTitle"><a href="mailto:clarity@psychonaut.wiki">clarity@psychonaut.wiki</a></span>
                     </h3>
