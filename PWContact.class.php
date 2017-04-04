@@ -63,7 +63,7 @@ $contact_page =
                 <div class="PersonContainer">
                     <h3>
                         <span class="PersonName2"><a href="https://psychonautwiki.org/wiki/User:Clarity">Claire</a></span>
-                        <span class="PersonJob">Product Evangelist</span>
+                        <span class="PersonJob">Community &amp; Development</span>
                         <span class="PersonTitle"><a href="mailto:clarity@psychonaut.wiki">clarity@psychonaut.wiki</a></span>
                     </h3>
                     <div class="PersonDetailsContainer">
