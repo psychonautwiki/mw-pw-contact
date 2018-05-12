@@ -11,69 +11,105 @@ $contact_page =
     <div class="container">
         <div class="PaneContent">
             <div class="PersonGenericContainer">
+            <div class="PersonContainer">
+                <h3>
+                    <span class="PersonName2">
+                        <a href="https://psychonautwiki.org/wiki/User:Kenan">Kenan</a>
+                    </span>
+                    <span class="PersonJob">Operations &amp; PR</span>
+                    <span class="PersonTitle">
+                        <a href="mailto:kenan@psychonaut.wiki">kenan@psychonaut.wiki</a>
+                    </span>
+                    <a name="MurrayDemo"></a>
+                </h3>
+                <div class="PersonDetailsContainer">
+                    <div class="PersonPhoto">
+                        <img src="https://psychonautwiki.org/team/kenan.jpg">
+                    </div>
+                </div>
+            </div>
+            <div class="PersonContainer">
+                <h3>
+                    <span class="PersonName2">
+                        <a href="https://psychonautwiki.org/wiki/User:Clarity">Chris</a>
+                    </span>
+                    <span class="PersonJob">Content &amp; Community</span>
+                    <span class="PersonTitle">
+                        <a href="mailto:chris@psychonaut.wiki">chris@psychonaut.wiki</a>
+                    </span>
+                </h3>
+                <div class="PersonDetailsContainer">
+                    <div class="PersonPhoto">
+                        <img src="https://psychonautwiki.org/team/chris.jpg" border="0">
+                    </div>
+                </div>
+            </div>
+            <div class="PersonContainer">
+                <h3>
+                    <span class="PersonName2">
+                        <a href="https://psychonautwiki.org/wiki/User:White">Nami</a>
+                    </span>
+                    <span class="PersonJob">Botany &amp; Mycology</span>
+                    <span class="PersonTitle">
+                        <a href="mailto:nami@psychonaut.wiki">nami@psychonaut.wiki</a>
+                    </span>
+                    <a name="MurrayDemo"></a>
+                </h3>
+                <div class="PersonDetailsContainer">
+                    <div class="PersonPhoto">
+                        <img src="https://psychonautwiki.org/team/nami.jpg">
+                    </div>
+                </div>
+            </div>
+            <div class="PersonContainer">
+                <h3>
+                    <span class="PersonName2">
+                        <a href="https://psychonautwiki.org/wiki/User:BronzeManul">Benjamin</a>
+                    </span>
+                    <span class="PersonJob">Chemistry</span>
+                    <span class="PersonTitle">
+                        <a href="mailto:benjamin@psychonaut.wiki">benjamin@psychonaut.wiki</a>
+                    </span>
+                </h3>
+                <div class="PersonDetailsContainer">
+                    <div class="PersonPhoto">
+                        <img src="https://psychonautwiki.org/team/benjamin.jpg" border="0">
+                    </div>
+                </div>
+            </div>
                 <div class="PersonContainer">
                     <h3>
-                        <span class="PersonName2"><a href="https://psychonautwiki.org/wiki/User:Josikins">Josie</a></span>
-                        <span class="PersonJob">Founder</span>
-                        <span class="PersonTitle"><a href="mailto:josie@psychonaut.wiki">josie@psychonaut.wiki</a></span>
+                        <span class="PersonName2">
+                            <a href="https://psychonautwiki.org/wiki/User:Josikins">Josie</a>
+                        </span>
+                        <span class="PersonJob">Subjective Effects</span>
+                        <span class="PersonTitle">
+                            <a href="mailto:josie@psychonaut.wiki">josie@psychonaut.wiki</a>
+                        </span>
                     </h3>
                     <div class="PersonDetailsContainer">
                         <div class="PersonPhoto">
-                            <img src="https://psychonautwiki.global.ssl.fastly.net/w/images/d/dd/Josienewavatar.png" border="0">
+                            <img src="https://psychonautwiki.org/team/josie.jpg" border="0">
                         </div>
                     </div>
                 </div>
                 <div class="PersonContainer">
                     <h3>
-                        <span class="PersonName2"><a href="https://psychonautwiki.org/wiki/User:Oskykins">Jenny</a></span>
-                        <span class="PersonJob">Founder</span>
-                        <span class="PersonTitle"><a href="mailto:oskykins@psychonautwiki.org">oskykins@psychonautwiki.org</a></span>
+                        <span class="PersonName2">
+                            <a href="https://psychonautwiki.org/wiki/User:Kaylee">Kaylee</a>
+                        </span>
+                        <span class="PersonJob">Subjective Effects</span>
+                        <span class="PersonTitle">
+                            <a href="mailto:kaylee@psychonaut.wiki">kaylee@psychonaut.wiki</a>
+                        </span>
                     </h3>
                     <div class="PersonDetailsContainer">
                         <div class="PersonPhoto">
-                            <img src="https://psychonautwiki.global.ssl.fastly.net/w/images/e/e1/Oskykinspic.jpeg">
+                            <img src="https://psychonautwiki.org/team/kaylee.jpg" border="0">
                         </div>
                     </div>
                 </div>
-                <div class="PersonContainer">
-                    <h3>
-                        <span class="PersonName2"><a href="https://psychonautwiki.org/wiki/User:Kaylee">Kaylee</a></span>
-                        <span class="PersonJob">Founder</span>
-                        <span class="PersonTitle"><a href="mailto:kaylee@psychonaut.wiki">kaylee@psychonaut.wiki</a></span>
-                    </h3>
-                    <div class="PersonDetailsContainer">
-                        <div class="PersonPhoto">
-                            <img src="https://psychonautwiki.global.ssl.fastly.net/w/images/2/28/Kaylee_new_avatar.jpeg" border="0">
-                        </div>
-                    </div>
-                </div>
-                <div class="PersonContainer">
-                    <h3>
-                        <span class="PersonName2"><a href="https://psychonautwiki.org/wiki/User:Apx">Kenan</a></span>
-                        <span class="PersonJob">Operations &amp; PR</span>
-                        <span class="PersonTitle"><a href="mailto:kenan@psychonaut.wiki">kenan@psychonaut.wiki</a></span>
-                        <a name="MurrayDemo"></a>
-                    </h3>
-                    <div class="PersonDetailsContainer">
-                        <div class="PersonPhoto">
-                            <img src="https://psychonautwiki.global.ssl.fastly.net/w/images/0/0d/Apx.jpg">
-                        </div>
-                    </div>
-                </div>
-                <div class="PersonContainer">
-                    <h3>
-                        <span class="PersonName2"><a href="https://psychonautwiki.org/wiki/User:Clarity">Claire</a></span>
-                        <span class="PersonJob">Community &amp; Development</span>
-                        <span class="PersonTitle"><a href="mailto:clarity@psychonaut.wiki">clarity@psychonaut.wiki</a></span>
-                    </h3>
-                    <div class="PersonDetailsContainer">
-                        <div class="PersonPhoto">
-                            <img src="https://psychonautwiki.global.ssl.fastly.net/w/images/2/2c/15871769_10154222031762338_7122449702448252455_n.jpg" border="0">
-                        </div>
-                    </div>
-                </div>
-                <div class="PersonContainer placeholder">
-                </div>
+                <div class="PersonContainer placeholder"></div>
             </div>
         </div>
     </div>
