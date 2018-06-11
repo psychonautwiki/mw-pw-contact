@@ -24,7 +24,7 @@ $contact_page =
                 </h3>
                 <div class="PersonDetailsContainer">
                     <div class="PersonPhoto">
-                        <img src="https://psychonautwiki.org/team/kenan.jpg">
+                        <img src="https://psychonautwiki.org/team/kenan-club.jpg">
                     </div>
                 </div>
             </div>
