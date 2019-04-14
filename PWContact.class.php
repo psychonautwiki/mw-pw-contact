@@ -18,24 +18,28 @@ $contact_page =
                     </span>
                     <span class="PersonJob">Operations &amp; PR</span>
                     <span class="PersonTitle">
-                        <a href="mailto:kenan@psychonaut.wiki">kenan@psychonaut.wiki</a>
+                        <a href="mailto:kenan@psy.is">kenan@psy.is</a>
+                    </span>
+                    <span style="font-size: 14px;display: flex;margin-top: 5px;">
+                        <a href="https://psychonautwiki.org/team/kenan.asc.txt">0x9337CFF2ED85FF40</a>
+                        <a href="http://pgp.mit.edu/pks/lookup?op=vindex&amp;search=0x9337CFF2ED85FF40" style="margin-left: 5px;">(verify)</a>
                     </span>
                     <a name="MurrayDemo"></a>
                 </h3>
                 <div class="PersonDetailsContainer">
                     <div class="PersonPhoto">
-                        <img src="https://psychonautwiki.org/team/kenan-club.jpg">
+                        <img src="https://psychonautwiki.org/team/kenan-nights.jpg">
                     </div>
                 </div>
             </div>
             <div class="PersonContainer">
                 <h3>
                     <span class="PersonName2">
-                        <a href="https://psychonautwiki.org/wiki/User:Clarity">Chris</a>
+                        <a href="https://psychonautwiki.org/wiki/User:Unity">Chris</a>
                     </span>
                     <span class="PersonJob">Content &amp; Community</span>
                     <span class="PersonTitle">
-                        <a href="mailto:chris@psychonaut.wiki">chris@psychonaut.wiki</a>
+                        <a href="mailto:chris@psy.is">chris@psy.is</a>
                     </span>
                 </h3>
                 <div class="PersonDetailsContainer">
@@ -51,7 +55,11 @@ $contact_page =
                     </span>
                     <span class="PersonJob">Botany &amp; Mycology</span>
                     <span class="PersonTitle">
-                        <a href="mailto:nami@psychonaut.wiki">nami@psychonaut.wiki</a>
+                        <a href="mailto:nami@psy.is">nami@psy.is</a>
+                    </span>
+                    <span style="font-size: 14px;display: flex;margin-top: 5px;">
+                        <a href="https://psychonautwiki.org/team/nami.asc.txt">0x9DE96751F5BD28E4</a>
+                        <a href="http://pgp.mit.edu/pks/lookup?op=vindex&amp;search=0x9DE96751F5BD28E4" style="margin-left: 5px;">(verify)</a>
                     </span>
                     <a name="MurrayDemo"></a>
                 </h3>
@@ -68,7 +76,7 @@ $contact_page =
                     </span>
                     <span class="PersonJob">Chemistry</span>
                     <span class="PersonTitle">
-                        <a href="mailto:benjamin@psychonaut.wiki">benjamin@psychonaut.wiki</a>
+                        <a href="mailto:benjamin@psy.is">benjamin@psy.is</a>
                     </span>
                 </h3>
                 <div class="PersonDetailsContainer">
@@ -84,7 +92,7 @@ $contact_page =
                         </span>
                         <span class="PersonJob">Subjective Effects</span>
                         <span class="PersonTitle">
-                            <a href="mailto:josie@psychonaut.wiki">josie@psychonaut.wiki</a>
+                            <a href="mailto:josie@psy.is">josie@psy.is</a>
                         </span>
                     </h3>
                     <div class="PersonDetailsContainer">
@@ -93,14 +101,14 @@ $contact_page =
                         </div>
                     </div>
                 </div>
-                <div class="PersonContainer">
+                <!--<div class="PersonContainer">
                     <h3>
                         <span class="PersonName2">
                             <a href="https://psychonautwiki.org/wiki/User:Kaylee">Kaylee</a>
                         </span>
                         <span class="PersonJob">Subjective Effects</span>
                         <span class="PersonTitle">
-                            <a href="mailto:kaylee@psychonaut.wiki">kaylee@psychonaut.wiki</a>
+                            <a href="mailto:kaylee@psy.is">kaylee@psy.is</a>
                         </span>
                     </h3>
                     <div class="PersonDetailsContainer">
@@ -108,7 +116,7 @@ $contact_page =
                             <img src="https://psychonautwiki.org/team/kaylee.jpg" border="0">
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <div class="PersonContainer placeholder"></div>
             </div>
         </div>
